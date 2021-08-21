@@ -1,6 +1,4 @@
-<?php
-
-namespace Models;
+<?php namespace Models;
 
 use mysqli;
 
