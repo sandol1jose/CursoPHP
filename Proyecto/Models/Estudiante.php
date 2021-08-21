@@ -42,7 +42,7 @@
         }
 
         public function edit(){
-            $sql = "UPDATE FROM estudiantes 
+            $sql = "UPDATE estudiantes 
             SET nombre = '{$this->nombre}', 
             edad = '{$this->edad}', 
             promedio = '{$this->promedio}',
